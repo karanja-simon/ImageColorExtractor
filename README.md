@@ -3,7 +3,8 @@ A Java SE application that extracts per pixel based RGB and Hex color values fro
 Below is a typical screen of the application running, on Windows 7. The L&F may differ depending on how your OS renders the UI components.
 </p>
 <p>
-<img src="https://app.box.com/s/oiv66f1ew05tane10ztm5oepa2p78nh5">
+<iframe src="https://app.box.com/embed/preview/oiv66f1ew05tane10ztm5oepa2p78nh5?theme=dark" width="500" height="400" frameborder="0"allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
 </p>
 # How to use the application (.jar) / (Running the binaries)
 <p>
